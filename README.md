@@ -4,7 +4,7 @@
   <img align="left" alt="Kerwin's JueJin" width="35px" src="https://b-gold-cdn.xitu.io/v3/static/img/simplify-logo.3e3c253.svg" />
 </a>
 <a href="https://segmentfault.com/u/kexianming">
-  <img align="left" alt="Kerwin's SF" width="30px" src="https://cdn.segmentfault.com/v-5f0a9217/global/img/touch-icon-512.png" />
+  <img align="left" alt="Kerwin's SF" width="30px" src="https://cdn.jsdelivr.net/gh/kkzhilu/kkzhilu.github.io/img/sf.png" />
 </a>
 <a href="https://github.com/kkzhilu/kkzhilu">
   <img align="left" alt="Kerwin's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
