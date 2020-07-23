@@ -9,22 +9,12 @@
 <a href="https://github.com/kkzhilu/kkzhilu">
   <img align="left" alt="Kerwin's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-<a href="https://cdn.jsdelivr.net/gh/kkzhilu/kkzhilu.github.io@1.0/img/QQ.png">
-  <img align="left" alt="Kerwin's QQ" width="45px" style="margin-top: -10px" src="https://cdn.jsdelivr.net/gh/kkzhilu/kkzhilu.github.io/img/QQLogo.svg" />
+<a href="https://cdn.jsdelivr.net/gh/kkzhilu/kkzhilu.github.io/img/WeLogo.jpg">
+  <img align="left" alt="Kerwin's WeChat" width="35px" src="https://cdn.jsdelivr.net/gh/kkzhilu/kkzhilu.github.io/img/WechatLogo.svg" />
 </a>
-
 <a href="https://my.oschina.net/superkerwin">
   <img align="left" alt="Kerwin's Git" width="120px" src="https://static.oschina.net/new-osc/img/logo_new.svg" />
 </a>
-
-<a href="https://www.facebook.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-
 <br />
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
